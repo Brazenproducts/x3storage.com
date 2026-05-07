@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://x3storage.com/sitemap.xml
